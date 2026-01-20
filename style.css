@@ -23,9 +23,13 @@
 .btn-primary:hover{
     transform: scale(1.06); 
 }
-/* nav bar style  */
+
 .navbar{
     color: white;
+}
+
+.navbar > div:nth-child(3) {
+    display: none;
 }
 .wave{
      background: linear-gradient(30deg,#f8ef42, #f8ef42, #FB09B4,  #FB09B4, #FB09B4, #9c22ff, #9c22ff); /* Gradient color */
@@ -177,10 +181,11 @@
 @media (max-width: 576px) {
     
     .navbar {
-        flex-direction: column; 
+        display: flex;
+        justify-content: space-between;
         height: auto; 
         padding: 15px 0; 
-        justify-content: center; 
+       
     }
     .navbar h3 {
         font-size: 2.5rem; 
@@ -190,10 +195,16 @@
         flex-direction: column; 
         gap: 10px;
         margin-bottom: 10px;
+        display: none;
     }
     .navbar .btn-primary {
         width: 80%; 
         margin-top: 10px;
+        display: none;
+    }
+  
+    .navbar > div:nth-child(3) {
+        display: block;
     }
 
     
