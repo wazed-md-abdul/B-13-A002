@@ -178,6 +178,12 @@
   
   }
 
+/* Add vertical spacing around the social links in the footer */
+footer .flex.flex-row.gap-10 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
 @media (max-width: 576px) {
     
     .navbar {
