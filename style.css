@@ -209,7 +209,7 @@
 /* footer  */
 
 .background-img-footer{
-    background-image: url('/assets/footer-bg.png');
+    background-image: url('./assets/footer-bg.png');
     background-size: cover;
     background-position: center;
     width: 100vw;
