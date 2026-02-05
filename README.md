@@ -3,7 +3,7 @@
 A responsive and modern landing page project built with **HTML**, **CSS**, and **Tailwind CSS**. This project was developed based on a Figma design to practice front-end layout techniques and responsive design principles.
 
 ## 🚀 Live Demo
-[Add your live link here, e.g., GitHub Pages link]
+https://wazed-md-abdul.github.io/B-13-A002/
 
 ## ✨ Features
 - **Responsive Design:** Fully compatible with mobile, tablet, and desktop screens.
