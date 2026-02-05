@@ -45,7 +45,7 @@
 | `Techwave...fig` | The original Figma blueprint for this project. |
 
 ## 📸 Screenshots
-*(Add a screenshot of your project here to make it truly eye-catchy!)*
+
 > `<img src="./assets/Screenshot.png" width="100%" alt="Techwave Preview" />`
 
 ## 🚀 Live Demo
