@@ -46,7 +46,7 @@
 
 ## 📸 Screenshots
 
-> `<img src="./assets/Screenshot.png" width="100%" alt="Techwave Preview" />`
+<p> `<img src="/assets/Screenshot.png" width="100%" alt="Techwave Preview" />` </p>
 
 ## 🚀 Live Demo
 
